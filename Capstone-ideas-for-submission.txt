@@ -1,0 +1,14 @@
+John Houlgate - Foundations of Data Science Course - Capstone Project Proposals
+
+Capstone Idea #1 - US Economic Review and Analysis from 2000 to the present time.
+
+What can we predict for the near future of the U.S. Economy? In this study, I would review and analyze key macro-economic indicators in the US dating from the present time back to the year 2000. Indicators would include Gross Domestic Product, Consumer Price Index, Employment/Unemployment and Housing Starts. The purpose of this study would be to discover patterns that would signify periods of economic growth and decline. Is it possible to determine some predictability that would help investment analysts and business news reporters understand what happened and what it portends for the near future?
+
+
+Capstone Idea #2 - Are People basically good or do they suck? 
+
+How often have we heard someone say, 'People are basically bad,' or something to that effect? Is this really true? Is this cynicism about humankind justified or are people just having a bad day? Even more intriguing is: can we measure answers to these questions using data science methods? One approach to answering these questions would be to look at existing statistics on prison populations relative to the population as a whole. Another approach would be to survey people over a given moral question like if you found an abandoned iPhone in a public place, what would you do? Perhaps we can get some answers, though not entirely conclusive. They may also suggest other areas of information gathering that might y?ield better answers.
+
+Capstone Idea #3 - How efficient am I as an Uber Driver?
+
+I've been driving with Uber for nearly 18 months and I've been able to eek out a living doing this. My question is, how efficient am I with my time and resources? In this study, I would examine data, readily available to me through my Uber Partner Dashboard and my own trips, gas-mileage and spending that I have been gathering over the last 3-4 months. I would look at patterns in weekday driving versus weekend driving to determine periods when I am more efficient with my time and resources and when I am less efficient. Answers to these questions can assist Uber and possibly Lyft, its rideshare competitor, on how to guide drivers toward better efficiency, keep them motivated and also to help themselves better understand the factors  in their ability to earn while driving.
